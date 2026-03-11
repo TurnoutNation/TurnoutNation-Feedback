@@ -10,7 +10,7 @@ We value your input! To help us address your post as quickly as possible, please
 
 ### 1. Report a Bug 🐛
 If something isn't working as expected:
-* Check the [Issues tab](https://github.com/YOUR_USERNAME/turnoutnation-feedback/issues) to see if the bug has already been reported.
+* Check the [Issues tab](https://github.com/TurnoutNation/turnoutnation-feedback/issues) to see if the bug has already been reported.
 * If not, [open a new issue](https://github.com/TurnoutNation/TurnoutNation-Feedback/issues/new/choose).
 * **Include:** What happened, what you expected to happen, and steps to reproduce the error.
 
